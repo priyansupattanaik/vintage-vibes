@@ -5,7 +5,7 @@ A vintage-themed interactive music player that fuses nostalgic vinyl vibes with 
 
 ## 🔗 Live Project
 
-**URL**: [Vinyl Vibes on Lovable](https://lovable.dev/projects/74621938-6a89-4589-9bb0-ad0b47b2e1b0)
+**URL**: [Vinyl Vibes on Vercel](https://vintage-vibes.vercel.app/)
 
 ---
 
@@ -32,7 +32,6 @@ All data is mock-based for the demo experience.
 - [shadcn/ui](https://ui.shadcn.com/) - modern UI components
 - [Tailwind CSS](https://tailwindcss.com/) - utility-first styling
 - [Framer Motion](https://www.framer.com/motion/) - for animations
-- [Lovable](https://lovable.dev) - instant AI-powered development
 
 ---
 
